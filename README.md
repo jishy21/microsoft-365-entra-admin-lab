@@ -58,7 +58,7 @@ This project demonstrates hands-on Microsoft 365 and Microsoft Entra ID administ
 ![License Assignment](screenshots/05-license-assigned.png)
 
 ### Security Group Created
-![Security Group](screenshots/06-security-group-created.png)
+![Security Group](screenshots/06-Security-group-created.png)
 
 ### Department Groups
 ![Department Groups](screenshots/07-department-groups.png)
