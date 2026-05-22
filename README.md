@@ -45,9 +45,6 @@ This project demonstrates hands-on Microsoft 365 and Microsoft Entra ID administ
 
 ## Screenshots
 
-### Microsoft 365 Admin Center
-![Microsoft 365 Admin Center](screenshots/01-m365-admin-center-home.png)
-
 ### Microsoft Entra Admin Center
 ![Entra Admin Center](screenshots/02-entra-admin-center-home.png)
 
